@@ -427,31 +427,14 @@ This project demonstrates:
 - Minimum avg length of stay: 15.49983 and Gender: Other
 - Maximum avg length of stay: 15.51564 and Gender: Male
 
-### Power BI Dashboard 
-<img src="https://github.com/GauriPise/Healthcare-Data-Analysis/blob/main/Screenshot 2026-03-15 210333.png" width="1000"> <br> 
+### Excel Dashboard
+<img src="https://github.com/GauriPise/Hospital-Data-Analysis/blob/main/Picture1.png" width="1000"> <br> 
+
+---
+### Power BI Dashboard
+<img src="https://github.com/GauriPise/Hospital-Data-Analysis/blob/main/Picture2.png" width="1000"> <br> 
 
 ---
 
-## Pyhton Images
-
-<img src="https://github.com/GauriPise/Healthcare-Data-Analysis/blob/main/Screenshot 2026-03-15 213315.png" width="1000"> <br> 
-
-<img src="https://github.com/GauriPise/Healthcare-Data-Analysis/blob/main/Screenshot 2026-03-15 213340.png" width="1000"> <br> 
-
-<img src="https://github.com/GauriPise/Healthcare-Data-Analysis/blob/main/Screenshot 2026-03-15 213400.png" width="1000"> <br>
-
-<img src="https://github.com/GauriPise/Healthcare-Data-Analysis/blob/main/Screenshot 2026-03-15 213423.png" width="1000"> <br> 
-
-<img src="https://github.com/GauriPise/Healthcare-Data-Analysis/blob/main/Screenshot 2026-03-15 213445.png" width="1000"> <br> 
-
-<img src="https://github.com/GauriPise/Healthcare-Data-Analysis/blob/main/Screenshot 2026-03-15 213535.png" width="1000"> <br>
-
-<img src="https://github.com/GauriPise/Healthcare-Data-Analysis/blob/main/Screenshot 2026-03-15 213552.png" width="1000"> <br>
-
----
-
-## SQL Images
-
-<img src="https://github.com/GauriPise/Healthcare-Data-Analysis/blob/main/Screenshot 2026-03-15 214437.png" width="1000"> <br> 
-
-<img src="https://github.com/GauriPise/Healthcare-Data-Analysis/blob/main/Screenshot 2026-03-15 214505.png" width="1000"> <br> 
+### Tableau Dashboard
+<img src="https://github.com/GauriPise/Hospital-Data-Analysis/blob/main/Picture3.png" width="1000"> <br> 
